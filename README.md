@@ -1,13 +1,13 @@
 # LaTeX-Workshop
 
-One Paragraph of project objective goes here
+A series of workshops to learn how to make :fire: documents using LaTeX :green_book: 
 
 ## Table of contents
 
 Workshop 1: [What is LaTeX?](https://github.com/humdrumcomet/LaTeXIntroduction)\
 Workshop 2: [Let's Code IT!](https://github.com/humdrumcomet/LaTeXCodingSession)\
-Workshop 3: [LaTeX!! What's more](https://github.com/ghassanarnouk/LaTeX-Workshop/tree/workshop3)\
-Workshop 4: [Section 4](https://github.com/ghassanarnouk/LaTeX-Workshop/tree/workshop4)
+Workshop 3: [Coming Soon!!]()\
+Workshop 4: [Coming Soon!!]()\
 
 ## Prerequisites
 
@@ -56,6 +56,6 @@ Assuming you have already created a `Gamil` account:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [GNU General Public License](LICENSE)
 
-[LICENSE]: https://github.com/ghassanarnouk/README-Template/blob/master/LICENSE
+[LICENSE]: https://github.com/humdrumcomet/LaTeXTutorialSeries/blob/main/LICENSE
