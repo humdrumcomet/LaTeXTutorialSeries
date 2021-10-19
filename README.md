@@ -51,7 +51,7 @@ Assuming you have already created a `Gamil` account:
 
 ## Authors
 
-* **Aaron English**
+* Aaron English
 * Ghassan Arnouk
 
 ## License
