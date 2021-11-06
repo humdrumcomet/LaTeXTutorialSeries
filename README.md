@@ -6,7 +6,7 @@ A series of workshops to learn how to make :fire: documents using LaTeX :green_b
 
 Workshop 1: [What is LaTeX?](https://github.com/humdrumcomet/LaTeXIntroduction)\
 Workshop 2: [Let's Code IT!](https://github.com/humdrumcomet/LaTeXCodingSession)\
-Workshop 3: [Coming Soon!!]()\
+Workshop 3: [Some More Advanced Tools](https://github.com/humdrumcomet/LaTeXAdvancedWorkshop)\
 Workshop 4: [Coming Soon!!]()
 
 ## Prerequisites
