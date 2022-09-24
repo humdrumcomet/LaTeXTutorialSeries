@@ -50,10 +50,11 @@ Assuming you are registering with a `Gmail` account:
 
 10. The LaTeX project is started and you are ready to code.
 
-## Authors
+## Authors and Organizers
 
-* Aaron English
 * Ghassan Arnouk
+* Alec Bales D'Cruze
+* Aaron English
 
 ## License
 
