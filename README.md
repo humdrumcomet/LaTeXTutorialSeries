@@ -7,8 +7,8 @@ A series of workshops to learn how to make :fire: documents using LaTeX :green_b
 [LaTeX Workshops and Tutorial Series](https://github.com/humdrumcomet/LaTeXTutorialSeries) (you are here)
 1. [What is LaTeX?](https://github.com/humdrumcomet/LaTeXIntroduction)
   An introduction to the typesetting tool
-    - [Let's Code It!](https://github.com/humdrumcomet/LaTeXCodingSession)
-  A starting point for you to prepare your first document during the live coding session
+  - [Let's Code It!](https://github.com/humdrumcomet/LaTeXCodingSession)
+    A starting point for you to prepare your first document during the live coding session
 2. [Some More Advanced Packages](https://github.com/humdrumcomet/LaTeXAdvancedWorkshop)
   introduction to different ways of thinking about document preparation and some of LaTeX's more sophisticated tools
     - [Presentations in LaTeX](https://github.com/humdrumcomet/LaTeXAdvancedWorkshop-Beamer)
