@@ -2,9 +2,9 @@
 
 A series of workshops to learn how to make :fire: documents using LaTeX :green_book: 
 
-## Table of contents
+## Workshop Series Map
 
-0. [LaTeX Workshops and Tutorial Series](https://github.com/humdrumcomet/LaTeXTutorialSeries) (you are here)  
+0. [LaTeX Workshops and Tutorial Series](https://github.com/humdrumcomet/LaTeXTutorialSeries)<sup>(you are here)</sup>  
    Top level page for the workshop series
 1. [What is LaTeX?](https://github.com/humdrumcomet/LaTeXIntroduction)  
     An introduction to the typesetting tool
