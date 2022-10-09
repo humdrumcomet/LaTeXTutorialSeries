@@ -4,7 +4,8 @@ A series of workshops to learn how to make :fire: documents using LaTeX :green_b
 
 ## Table of contents
 
-[LaTeX Workshops and Tutorial Series](https://github.com/humdrumcomet/LaTeXTutorialSeries) (you are here)  
+0. [LaTeX Workshops and Tutorial Series](https://github.com/humdrumcomet/LaTeXTutorialSeries) (you are here)  
+   Top level page for the workshop series
 1. [What is LaTeX?](https://github.com/humdrumcomet/LaTeXIntroduction)  
     An introduction to the typesetting tool
     - [Let's Code It!](https://github.com/humdrumcomet/LaTeXCodingSession)  
